@@ -1,4 +1,4 @@
-# recompose-legal
+# atelier-legal
 
 Public legal & support pages for the **Atelier** iOS app, served via GitHub Pages.
 
@@ -7,6 +7,6 @@ Public legal & support pages for the **Atelier** iOS app, served via GitHub Page
 - `support.html` — Support & FAQ (JA / EN)
 - `index.html` — Landing
 
-Live: https://gyougi.github.io/recompose-legal/
+Live: https://gyougi.github.io/atelier-legal/
 
 Contact: gyou.gi@glspace.co.jp
