@@ -9,4 +9,4 @@ Public legal & support pages for the **Atelier** iOS app, served via GitHub Page
 
 Live: https://gyougi.github.io/atelier-legal/
 
-Contact: gyou.gi@glspace.co.jp
+Contact: support@glspace.co.jp
